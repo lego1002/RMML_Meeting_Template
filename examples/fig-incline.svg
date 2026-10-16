@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="120 120 670 650" font-family="Microsoft JhengHei, PingFang TC, Noto Sans CJK TC, sans-serif" font-size="22">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="context-stroke"/></marker>
+  </defs>
+  <path d="M256 473H416L464 555V632H560V555L607 473H768V665H256Z" fill="#E7E6E6" stroke="#7F7F7F" stroke-width="2"/>
+  <text x="755" y="640" text-anchor="end">充電座（浮動）</text>
+  <path d="M424 233H510V488L491 521H463L424 455Z" fill="#C8E4FA" stroke="#3D98DE" stroke-width="2"/>
+  <text x="467" y="380" text-anchor="middle">充電頭</text>
+  <path d="M424 486L444 520" stroke="#00A050" stroke-width="7"/>
+  <path d="M467 145V222" stroke="#00804A" stroke-width="4" marker-end="url(#a)"/>
+  <text x="482" y="168" fill="#00804A" font-weight="700">F 推入力</text>
+  <path d="M350 548L422 509" stroke="#3D98DE" stroke-width="4" marker-end="url(#a)"/>
+  <text x="268" y="610" fill="#3D98DE" font-weight="700">N 法向力</text>
+  <path d="M473 575L443 520" stroke="#F67F16" stroke-width="4" marker-end="url(#a)"/>
+  <text x="482" y="598" fill="#F67F16" font-weight="700">μN 摩擦</text>
+  <path d="M165 532V604M165 568H178L189 556L200 580L211 556L222 580L233 556L244 580L256 568" fill="none" stroke="#595959" stroke-width="3"/>
+  <text x="140" y="522">回中彈簧</text>
+  <text x="178" y="630">k·δ</text>
+  <path d="M448 708H344" stroke="#595959" stroke-width="3" marker-end="url(#a)"/>
+  <text x="396" y="745" text-anchor="middle">座被推開 δ</text>
+  <path d="M672 740V680" stroke="#595959" stroke-width="3" marker-end="url(#a)"/>
+  <text x="686" y="728">止擋</text>
+</svg>

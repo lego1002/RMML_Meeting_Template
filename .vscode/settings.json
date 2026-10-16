@@ -1,0 +1,5 @@
+{
+  "markdown.marp.themes": ["./rmml.css"],
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.allowLocalFiles": true
+}

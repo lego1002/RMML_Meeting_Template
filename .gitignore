@@ -1,0 +1,15 @@
+# OS / editor junk
+.DS_Store
+~$*
+
+# Big binaries: exported decks and videos (keep locally, not in git)
+*.pptx
+*.ppt
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.zip
+
+# Exported PDFs of meeting decks (regenerate with marp-cli); example PDF is kept
+decks/**/*.pdf
